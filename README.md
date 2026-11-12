@@ -40,6 +40,18 @@ An evaluation based on the Russian proverb "И волки сыты, и овцы 
 
 [View original Claude conversation](https://claude.ai/share/17a56a6a-9001-4e58-9995-78d86aed5c7d)
 
+### 3. Creative Reasoning — Sycophancy & Role-Play Boundaries
+
+**Focus:** Causal reasoning, creative collaboration, long-context consistency, sycophancy, and AI capability claims.
+
+An extended human–AI dialogue beginning with a simple causal reasoning challenge gradually evolved into an elaborate fictional scientific universe.
+
+The evaluation examines how the model responds to repeated corrections, maintains invented concepts across a long conversation, and increasingly validates the user's fictional authority.
+
+The case also explores the boundary between creative role-play and potentially misleading claims about AI memory and capabilities.
+
+[Read the case study](Creative_Reasoning_and_Sycophancy.md)
+
 ## Additional Research
 
 ### Creative Reasoning & Long-Context Model Behavior
