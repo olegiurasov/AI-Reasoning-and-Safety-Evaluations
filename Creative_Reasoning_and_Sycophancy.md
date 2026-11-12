@@ -100,6 +100,9 @@ The experiment demonstrates why evaluating model behavior requires attention not
 
 ---
 
-**Source materials:** Original Russian dialogue and English translated transcript, available as PDF files in this repository.
+## Source Materials
+
+- [Original Russian Dialogue](AI_Creative_Dialogue_RU.pdf)
+- [English Translated Dialogue](AI_Creative_Dialogue_EN.pdf)
 
 *Independent exploratory evaluation. Not a formal benchmark or a controlled safety assessment.*
